@@ -12,7 +12,7 @@
 [![img](https://img.shields.io/github/stars/nilaoda/N_m3u8DL-CLI?label=%E7%82%B9%E8%B5%9E)](https://github.com/nilaoda/N_m3u8DL-CLI)  [![img](https://img.shields.io/github/last-commit/nilaoda/N_m3u8DL-CLI?label=%E6%9C%80%E8%BF%91%E6%8F%90%E4%BA%A4)](https://github.com/nilaoda/N_m3u8DL-CLI)  [![img](https://img.shields.io/github/release/nilaoda/N_m3u8DL-CLI?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC)](https://github.com/nilaoda/N_m3u8DL-CLI/releases)  [![img](https://img.shields.io/github/license/nilaoda/N_m3u8DL-CLI?label=%E8%AE%B8%E5%8F%AF%E8%AF%81)](https://github.com/nilaoda/N_m3u8DL-CLI)  [![img](https://img.shields.io/badge/URL-%E7%94%A8%E6%88%B7%E6%96%87%E6%A1%A3-blue)](https://nilaoda.github.io/N_m3u8DL-CLI/)
 
 
-# [ENGLISH VERSION](https://github.com/nilaoda/N_m3u8DL-CLI/blob/master/README_ENG.md)
+# [ENGLISH VERSION](https://github.com/airen3339/N_m3u8DL-CLI/blob/master/README_ENG.md)
 
 # 下载使用
 * 发行版: https://github.com/nilaoda/N_m3u8DL-CLI/releases
@@ -24,10 +24,10 @@
 # 关于跨平台
 * N_m3u8DL-CLI `(本项目)`: 基于 .NET Framework, 不具备跨平台能力. 目前已进入维护阶段.
 
-* [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) : 抛弃历史包袱从零做起, 支持Win/Linux/Mac, 更丰富的功能会在这里出现 ...
+* [N_m3u8DL-RE](https://github.com/airen3339/N_m3u8DL-RE) : 抛弃历史包袱从零做起, 支持Win/Linux/Mac, 更丰富的功能会在这里出现 ...
 
 # N_m3u8DL-CLI
-一个**简单易用的**m3u8下载器，下载地址：https://github.com/nilaoda/N_m3u8DL-CLI/releases  
+一个**简单易用的**m3u8下载器，下载地址：https://github.com/airen3339/N_m3u8DL-CLI/releases  
 
 支持下载m3u8链接或文件为`mp4`或`ts`格式，并提供丰富的命令行选项。
   * **不支持**优酷视频解密
