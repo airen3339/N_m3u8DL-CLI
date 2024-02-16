@@ -120,6 +120,5 @@ URI解码结果：
 "https://example.com/abc.m3u8" --workDir "%USERPROFILE%\Downloads\m3u8dl" --saveName "abc" --enableDelAfterDone --disableDateInfo --noProxy
 ```
 
-# 用户文档
-https://nilaoda.github.io/N_m3u8DL-CLI/
+
 
